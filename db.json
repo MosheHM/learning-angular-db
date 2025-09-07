@@ -5,7 +5,7 @@
       "label": "User Name",
       "layout": {
         "sectionId": "rightSection",
-        "order": 0
+        "order": 3
       },
       "input": {
         "dataType": "text",
@@ -53,7 +53,7 @@
       "label": "Age",
       "layout": {
         "sectionId": "leftSection",
-        "order": 0
+        "order": 3
       },
       "input": {
         "dataType": "number",
@@ -101,7 +101,7 @@
       "label": "Occupation",
       "layout": {
         "sectionId": "rightSection",
-        "order": 3
+        "order": 0
       },
       "input": {
         "dataType": "text",
@@ -117,7 +117,7 @@
       "label": "Biography",
       "layout": {
         "sectionId": "leftSection",
-        "order": 3
+        "order": 0
       },
       "input": {
         "dataType": "textarea",
