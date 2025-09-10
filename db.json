@@ -351,5 +351,38 @@
         "toolTipText": "Enter your occupation"
       }
     ]
+  },
+  "pageData": {
+    "id": {
+      "orders": [
+        { "name": "user_name", "value": "" },
+        { "name": "age", "value": "" },
+        { "name": "city", "value": "" },
+        { "name": "country", "value": "" },
+        { "name": "occupation", "value": "" },
+        { "name": "bio", "value": "" }
+      ],
+      "shipments": [
+        { "name": "user_name", "value": "" },
+        { "name": "city", "value": "" },
+        { "name": "country", "value": "" },
+        { "name": "occupation", "value": "" },
+        { "name": "bio", "value": "" }
+      ],
+      "documents": [
+        { "name": "user_name", "value": "" },
+        { "name": "age", "value": "" },
+        { "name": "city", "value": "" },
+        { "name": "occupation", "value": "" },
+        { "name": "bio", "value": "" }
+      ],
+      "appeals": [
+        { "name": "user_name", "value": "" },
+        { "name": "age", "value": "" },
+        { "name": "city", "value": "" },
+        { "name": "country", "value": "" },
+        { "name": "occupation", "value": "" }
+      ]
+    }
   }
 }
