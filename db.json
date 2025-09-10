@@ -17,38 +17,7 @@
         },
         "toolTipText": "Enter your user name"
       },
-      {
-        "name": "email",
-        "label": "Email Address",
-        "layout": {
-          "sectionId": "rightSection",
-          "order": 1
-        },
-        "input": {
-          "dataType": "email",
-          "validation": {
-            "required": true,
-            "maxSize": 50
-          }
-        },
-        "toolTipText": "Enter your email address"
-      },
-      {
-        "name": "phone",
-        "label": "Phone Number",
-        "layout": {
-          "sectionId": "rightSection",
-          "order": 2
-        },
-        "input": {
-          "dataType": "tel",
-          "validation": {
-            "required": false,
-            "maxSize": 15
-          }
-        },
-        "toolTipText": "Enter your phone number"
-      },
+  
       {
         "name": "age",
         "label": "Age",
@@ -121,7 +90,7 @@
           "order": 0
         },
         "input": {
-          "dataType": "textarea",
+          "dataType": "text",
           "validation": {
             "required": false,
             "maxSize": 200
@@ -150,38 +119,6 @@
         "toolTipText": "Enter your user name"
       },
       {
-        "name": "email",
-        "label": "Email Address",
-        "layout": {
-          "sectionId": "rightSection",
-          "order": 1
-        },
-        "input": {
-          "dataType": "email",
-          "validation": {
-            "required": true,
-            "maxSize": 50
-          }
-        },
-        "toolTipText": "Enter your email address"
-      },
-      {
-        "name": "phone",
-        "label": "Phone Number",
-        "layout": {
-          "sectionId": "rightSection",
-          "order": 2
-        },
-        "input": {
-          "dataType": "tel",
-          "validation": {
-            "required": false,
-            "maxSize": 15
-          }
-        },
-        "toolTipText": "Enter your phone number"
-      },
-      {
         "name": "age",
         "label": "Age",
         "layout": {
@@ -253,7 +190,7 @@
           "order": 0
         },
         "input": {
-          "dataType": "textarea",
+          "dataType": "text",
           "validation": {
             "required": false,
             "maxSize": 200
@@ -282,38 +219,6 @@
         "toolTipText": "Enter your user name"
       },
       {
-        "name": "email",
-        "label": "Email Address",
-        "layout": {
-          "sectionId": "rightSection",
-          "order": 1
-        },
-        "input": {
-          "dataType": "email",
-          "validation": {
-            "required": true,
-            "maxSize": 50
-          }
-        },
-        "toolTipText": "Enter your email address"
-      },
-      {
-        "name": "phone",
-        "label": "Phone Number",
-        "layout": {
-          "sectionId": "rightSection",
-          "order": 2
-        },
-        "input": {
-          "dataType": "tel",
-          "validation": {
-            "required": false,
-            "maxSize": 15
-          }
-        },
-        "toolTipText": "Enter your phone number"
-      },
-      {
         "name": "age",
         "label": "Age",
         "layout": {
@@ -385,7 +290,7 @@
           "order": 0
         },
         "input": {
-          "dataType": "textarea",
+          "dataType": "text",
           "validation": {
             "required": false,
             "maxSize": 200
@@ -414,38 +319,6 @@
         "toolTipText": "Enter your user name"
       },
       {
-        "name": "email",
-        "label": "Email Address",
-        "layout": {
-          "sectionId": "rightSection",
-          "order": 1
-        },
-        "input": {
-          "dataType": "email",
-          "validation": {
-            "required": true,
-            "maxSize": 50
-          }
-        },
-        "toolTipText": "Enter your email address"
-      },
-      {
-        "name": "phone",
-        "label": "Phone Number",
-        "layout": {
-          "sectionId": "rightSection",
-          "order": 2
-        },
-        "input": {
-          "dataType": "tel",
-          "validation": {
-            "required": false,
-            "maxSize": 15
-          }
-        },
-        "toolTipText": "Enter your phone number"
-      },
-      {
         "name": "age",
         "label": "Age",
         "layout": {
@@ -517,7 +390,7 @@
           "order": 0
         },
         "input": {
-          "dataType": "textarea",
+          "dataType": "text",
           "validation": {
             "required": false,
             "maxSize": 200
