@@ -1,5 +1,5 @@
 {
-  "Orders": {
+  "orders": {
     "formFields": [
       {
         "name": "user_name",
@@ -131,7 +131,7 @@
       }
     ]
   },
-  "Shipments": {
+  "shipments": {
     "formFields": [
       {
         "name": "user_name",
@@ -263,7 +263,7 @@
       }
     ]
   },
-  "Documents": {
+  "documents": {
     "formFields": [
       {
         "name": "user_name",
@@ -395,7 +395,7 @@
       }
     ]
   },
-  "Appeals": {
+  "appeals": {
     "formFields": [
       {
         "name": "user_name",
