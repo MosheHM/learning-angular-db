@@ -36,7 +36,7 @@
       },
       {
         "name": "city",
-        "label": "City",
+        "label": "MyCity",
         "layout": {
           "sectionId": "leftSection",
           "order": 1
@@ -117,22 +117,6 @@
           }
         },
         "toolTipText": "Enter your user name"
-      },
-      {
-        "name": "age",
-        "label": "Age",
-        "layout": {
-          "sectionId": "leftSection",
-          "order": 3
-        },
-        "input": {
-          "dataType": "number",
-          "validation": {
-            "required": true,
-            "maxSize": 3
-          }
-        },
-        "toolTipText": "Enter your age"
       },
       {
         "name": "city",
@@ -251,24 +235,8 @@
         "toolTipText": "Enter your city"
       },
       {
-        "name": "country",
-        "label": "Country",
-        "layout": {
-          "sectionId": "leftSection",
-          "order": 2
-        },
-        "input": {
-          "dataType": "text",
-          "validation": {
-            "required": true,
-            "maxSize": 30
-          }
-        },
-        "toolTipText": "Enter your country"
-      },
-      {
         "name": "occupation",
-        "label": "Occupation",
+        "label": "JOna l",
         "layout": {
           "sectionId": "rightSection",
           "order": 0
@@ -284,7 +252,7 @@
       },
       {
         "name": "bio",
-        "label": "Biography",
+        "label": "Biography Or Stories",
         "layout": {
           "sectionId": "leftSection",
           "order": 0
@@ -381,22 +349,6 @@
           }
         },
         "toolTipText": "Enter your occupation"
-      },
-      {
-        "name": "bio",
-        "label": "Biography",
-        "layout": {
-          "sectionId": "leftSection",
-          "order": 0
-        },
-        "input": {
-          "dataType": "text",
-          "validation": {
-            "required": false,
-            "maxSize": 200
-          }
-        },
-        "toolTipText": "Tell us about yourself"
       }
     ]
   }
