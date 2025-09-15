@@ -5,8 +5,13 @@
         "name": "user_name",
         "label": "User Name",
         "layout": {
-          "sectionId": "rightSection",
-          "order": 3
+          "formLayout": {
+            "sectionId": "rightSection",
+            "order": 3
+          },
+          "gridLayout": {
+            "order": 1
+          }
         },
         "input": {
           "dataType": "text",
@@ -21,8 +26,13 @@
         "name": "age",
         "label": "Age",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 3
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 3
+          },
+          "gridLayout": {
+            "order": 6
+          }
         },
         "input": {
           "dataType": "number",
@@ -37,8 +47,13 @@
         "name": "city",
         "label": "MyCity",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 1
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 1
+          },
+          "gridLayout": {
+            "order": 8
+          }
         },
         "input": {
           "dataType": "text",
@@ -53,8 +68,13 @@
         "name": "country",
         "label": "Country",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 2
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 2
+          },
+          "gridLayout": {
+            "order": 5
+          }
         },
         "input": {
           "dataType": "text",
@@ -69,8 +89,13 @@
         "name": "occupation",
         "label": "Occupation",
         "layout": {
-          "sectionId": "rightSection",
-          "order": 0
+          "formLayout": {
+            "sectionId": "rightSection",
+            "order": 0
+          },
+          "gridLayout": {
+            "order": 1
+          }
         },
         "input": {
           "dataType": "text",
@@ -85,8 +110,13 @@
         "name": "bio",
         "label": "Biography",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 0
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 0
+          },
+          "gridLayout": {
+            "order": 7
+          }
         },
         "input": {
           "dataType": "text",
@@ -105,8 +135,13 @@
         "name": "user_name",
         "label": "User Name",
         "layout": {
-          "sectionId": "rightSection",
-          "order": 3
+          "formLayout": {
+            "sectionId": "rightSection",
+            "order": 3
+          },
+          "gridLayout": {
+            "order": 8
+          }
         },
         "input": {
           "dataType": "text",
@@ -121,8 +156,13 @@
         "name": "city",
         "label": "City",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 1
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 1
+          },
+          "gridLayout": {
+            "order": 8
+          }
         },
         "input": {
           "dataType": "text",
@@ -137,8 +177,13 @@
         "name": "country",
         "label": "Country",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 2
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 2
+          },
+          "gridLayout": {
+            "order": 2
+          }
         },
         "input": {
           "dataType": "text",
@@ -153,8 +198,13 @@
         "name": "occupation",
         "label": "Occupation",
         "layout": {
-          "sectionId": "rightSection",
-          "order": 0
+          "formLayout": {
+            "sectionId": "rightSection",
+            "order": 0
+          },
+          "gridLayout": {
+            "order": 4
+          }
         },
         "input": {
           "dataType": "text",
@@ -169,8 +219,13 @@
         "name": "bio",
         "label": "Biography",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 0
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 0
+          },
+          "gridLayout": {
+            "order": 0
+          }
         },
         "input": {
           "dataType": "text",
@@ -189,8 +244,13 @@
         "name": "user_name",
         "label": "User Name",
         "layout": {
-          "sectionId": "rightSection",
-          "order": 3
+          "formLayout": {
+            "sectionId": "rightSection",
+            "order": 3
+          },
+          "gridLayout": {
+            "order": 9
+          }
         },
         "input": {
           "dataType": "text",
@@ -205,8 +265,13 @@
         "name": "age",
         "label": "Age",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 3
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 3
+          },
+          "gridLayout": {
+            "order": 9
+          }
         },
         "input": {
           "dataType": "number",
@@ -221,8 +286,13 @@
         "name": "city",
         "label": "City",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 1
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 1
+          },
+          "gridLayout": {
+            "order": 3
+          }
         },
         "input": {
           "dataType": "text",
@@ -237,8 +307,13 @@
         "name": "occupation",
         "label": "JOna l",
         "layout": {
-          "sectionId": "rightSection",
-          "order": 0
+          "formLayout": {
+            "sectionId": "rightSection",
+            "order": 0
+          },
+          "gridLayout": {
+            "order": 9
+          }
         },
         "input": {
           "dataType": "text",
@@ -253,8 +328,13 @@
         "name": "bio",
         "label": "Biography Or Stories",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 0
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 0
+          },
+          "gridLayout": {
+            "order": 6
+          }
         },
         "input": {
           "dataType": "text",
@@ -273,8 +353,13 @@
         "name": "user_name",
         "label": "User Name",
         "layout": {
-          "sectionId": "rightSection",
-          "order": 3
+          "formLayout": {
+            "sectionId": "rightSection",
+            "order": 3
+          },
+          "gridLayout": {
+            "order": 9
+          }
         },
         "input": {
           "dataType": "text",
@@ -289,8 +374,13 @@
         "name": "age",
         "label": "Age",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 3
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 3
+          },
+          "gridLayout": {
+            "order": 7
+          }
         },
         "input": {
           "dataType": "number",
@@ -305,8 +395,13 @@
         "name": "city",
         "label": "City",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 1
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 1
+          },
+          "gridLayout": {
+            "order": 9
+          }
         },
         "input": {
           "dataType": "text",
@@ -321,8 +416,13 @@
         "name": "country",
         "label": "Country",
         "layout": {
-          "sectionId": "leftSection",
-          "order": 2
+          "formLayout": {
+            "sectionId": "leftSection",
+            "order": 2
+          },
+          "gridLayout": {
+            "order": 8
+          }
         },
         "input": {
           "dataType": "text",
@@ -337,8 +437,13 @@
         "name": "occupation",
         "label": "Occupation",
         "layout": {
-          "sectionId": "rightSection",
-          "order": 0
+          "formLayout": {
+            "sectionId": "rightSection",
+            "order": 0
+          },
+          "gridLayout": {
+            "order": 9
+          }
         },
         "input": {
           "dataType": "text",
