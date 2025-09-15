@@ -86,27 +86,6 @@
         "toolTipText": "Enter your country"
       },
       {
-        "name": "occupation",
-        "label": "Occupation",
-        "layout": {
-          "formLayout": {
-            "sectionId": "rightSection",
-            "order": 0
-          },
-          "gridLayout": {
-            "order": 1
-          }
-        },
-        "input": {
-          "dataType": "text",
-          "validation": {
-            "required": false,
-            "maxSize": 40
-          }
-        },
-        "toolTipText": "Enter your occupation"
-      },
-      {
         "name": "bio",
         "label": "Biography",
         "layout": {
