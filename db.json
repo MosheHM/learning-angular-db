@@ -6,7 +6,7 @@
         "label": "User Name",
         "layout": {
           "formLayout": {
-            "sectionId": "rightSection",
+            "sectionId": "section1",
             "order": 3
           },
           "gridLayout": {
@@ -27,7 +27,7 @@
         "label": "Age",
         "layout": {
           "formLayout": {
-            "sectionId": "leftSection",
+            "sectionId": "section2",
             "order": 3
           },
           "gridLayout": {
@@ -48,7 +48,7 @@
         "label": "MyCity",
         "layout": {
           "formLayout": {
-            "sectionId": "leftSection",
+            "sectionId": "section2",
             "order": 1
           },
           "gridLayout": {
@@ -69,7 +69,7 @@
         "label": "Country",
         "layout": {
           "formLayout": {
-            "sectionId": "leftSection",
+            "sectionId": "section2",
             "order": 2
           },
           "gridLayout": {
@@ -90,7 +90,7 @@
         "label": "Biography",
         "layout": {
           "formLayout": {
-            "sectionId": "leftSection",
+            "sectionId": "section2",
             "order": 0
           },
           "gridLayout": {
@@ -133,7 +133,7 @@
         "label": "User Name",
         "layout": {
           "formLayout": {
-            "sectionId": "rightSection",
+            "sectionId": "section1",
             "order": 3
           },
           "gridLayout": {
@@ -154,7 +154,7 @@
         "label": "City",
         "layout": {
           "formLayout": {
-            "sectionId": "leftSection",
+            "sectionId": "section2",
             "order": 1
           },
           "gridLayout": {
@@ -175,7 +175,7 @@
         "label": "Country",
         "layout": {
           "formLayout": {
-            "sectionId": "leftSection",
+            "sectionId": "section2",
             "order": 2
           },
           "gridLayout": {
@@ -196,7 +196,7 @@
         "label": "Occupation",
         "layout": {
           "formLayout": {
-            "sectionId": "rightSection",
+            "sectionId": "section1",
             "order": 0
           },
           "gridLayout": {
@@ -217,7 +217,7 @@
         "label": "Biography",
         "layout": {
           "formLayout": {
-            "sectionId": "leftSection",
+            "sectionId": "section2",
             "order": 0
           },
           "gridLayout": {
@@ -260,7 +260,7 @@
         "label": "User Name",
         "layout": {
           "formLayout": {
-            "sectionId": "rightSection",
+            "sectionId": "section1",
             "order": 3
           },
           "gridLayout": {
@@ -281,7 +281,7 @@
         "label": "Age",
         "layout": {
           "formLayout": {
-            "sectionId": "leftSection",
+            "sectionId": "section2",
             "order": 3
           },
           "gridLayout": {
@@ -302,7 +302,7 @@
         "label": "City",
         "layout": {
           "formLayout": {
-            "sectionId": "leftSection",
+            "sectionId": "section2",
             "order": 1
           },
           "gridLayout": {
@@ -323,7 +323,7 @@
         "label": "Country",
         "layout": {
           "formLayout": {
-            "sectionId": "leftSection",
+            "sectionId": "section2",
             "order": 2
           },
           "gridLayout": {
