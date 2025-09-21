@@ -106,6 +106,24 @@
         },
         "toolTipText": "Tell us about yourself"
       }
+    ],
+    "gridSections": [
+      {
+        "sectionId": "section1",
+        "gridArea": "4/2/9/8"
+      },
+      {
+        "sectionId": "section2",
+        "gridArea": "10/1/1/7"
+      },
+      {
+        "sectionId": "section3",
+        "gridArea": "7/5/1/7"
+      },
+      {
+        "sectionId": "section4",
+        "gridArea": "10/2/1/7"
+      }
     ]
   },
   "shipments": {
@@ -215,6 +233,24 @@
         },
         "toolTipText": "Tell us about yourself"
       }
+    ],
+    "gridSections": [
+      {
+        "sectionId": "section1",
+        "gridArea": "1/2/2/8"
+      },
+      {
+        "sectionId": "section2",
+        "gridArea": "2/7/4/4"
+      },
+      {
+        "sectionId": "section3",
+        "gridArea": "2/4/6/4"
+      },
+      {
+        "sectionId": "section4",
+        "gridArea": "5/3/1/5"
+      }
     ]
   },
   "appeals": {
@@ -302,6 +338,24 @@
           }
         },
         "toolTipText": "Enter your country"
+      }
+    ],
+    "gridSections": [
+      {
+        "sectionId": "section1",
+        "gridArea": "5/10/10/4"
+      },
+      {
+        "sectionId": "section2",
+        "gridArea": "1/5/10/9"
+      },
+      {
+        "sectionId": "section3",
+        "gridArea": "6/6/10/6"
+      },
+      {
+        "sectionId": "section4",
+        "gridArea": "7/2/1/10"
       }
     ]
   },
