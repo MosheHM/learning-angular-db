@@ -110,22 +110,22 @@
     "gridSections": [
       {
         "sectionId": "section1",
-        "gridArea": "4/2/9/8",
+        "gridArea": "1/1/5/10",
         "componentType": "input-section"
       },
       {
         "sectionId": "section2",
-        "gridArea": "10/1/1/7",
+        "gridArea": "1/10/8/16",
         "componentType": "input-section"
       },
       {
         "sectionId": "section3",
-        "gridArea": "7/5/1/7",
+        "gridArea": "5/1/10/10",
         "componentType": "input-section"
       },
       {
         "sectionId": "section4",
-        "gridArea": "10/2/1/7",
+        "gridArea": "8/10/10/16",
         "componentType": "input-section"
       }
     ]
@@ -241,22 +241,22 @@
     "gridSections": [
       {
         "sectionId": "section1",
-        "gridArea": "1/2/2/8",
+        "gridArea": "1/2/5/11",
         "componentType": "input-section"
       },
       {
         "sectionId": "section2",
-        "gridArea": "2/7/4/4",
+        "gridArea": "2/11/8/16",
         "componentType": "input-section"
       },
       {
         "sectionId": "section3",
-        "gridArea": "2/4/6/4",
+        "gridArea": "5/2/10/11",
         "componentType": "input-section"
       },
       {
         "sectionId": "section4",
-        "gridArea": "5/3/1/5",
+        "gridArea": "8/11/10/16",
         "componentType": "input-section"
       }
     ]
